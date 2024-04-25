@@ -1,0 +1,29 @@
+{
+  "name": "3ui-aleguy02",
+  "version": "1.0.0",
+  "description": "You can easily implement interactive 3D elements into your website's UI with this package",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three",
+    "three.js",
+    "javascript",
+    "html",
+    "UI",
+    "user",
+    "interface",
+    "design",
+    "3d",
+    "web"
+  ],
+  "author": "aleguy02",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.163.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.10"
+  }
+}
